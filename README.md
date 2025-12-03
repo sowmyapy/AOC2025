@@ -1,2 +1,2 @@
 # AOC2025
-First timer at AOC
+Codes of 2025 Advent of Code.
